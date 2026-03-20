@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Sisodiya</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🎓  A 3rd  Year B.Tech Computer Science Student
+- 🎓  A Pre-final B.Tech Computer Science Student Gradulate in 2027
 - 💻 All my projects are available on [GitHub](https://github.com/AishwaryaSisodiya)
 - ## 🚀 Languages and Tools:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github" />
-</p>
+</p
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSisodiya&layout=compact&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AishwaryaSisodiya&theme=tokyonight)
+  | Most Used Languages | GitHub Stats |
+|--------------------|-------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSisodiya&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&theme=tokyonight) |
