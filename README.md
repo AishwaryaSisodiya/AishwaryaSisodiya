@@ -3,6 +3,22 @@
 
 - 🎓  A Pre-final B.Tech Computer Science Student Gradulate in 2027
 - 💻 All my projects are available on [GitHub](https://github.com/AishwaryaSisodiya)
+- ## 🌐 Connect with me:
+<p align="center">
+
+<a href="https://github.com/Aishwarya Sisodiya" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="(https://www.linkedin.com/in/aishwarya-sisodiya-aa05562a8/)">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="(https://www.codechef.com/users/aishwarya20sp)">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48" height="48"/>
+</a>
+</p>
+
 - ## 🚀 Languages and Tools:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github" />
