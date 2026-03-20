@@ -19,9 +19,15 @@
 </a>
 </p>
 
+<a href="https://www.instagram.com/aishwarya.20__/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+
+
 - ## 🚀 Languages and Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,mongodb,github" />
 </p
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSisodiya&layout=compact&theme=tokyonight)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&theme=tokyonight)
