@@ -17,11 +17,13 @@
 <a href="(https://www.codechef.com/users/aishwarya20sp)">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48" height="48"/>
 </a>
-</p>
 
 <a href="https://www.instagram.com/aishwarya.20__/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+</p>
+
+
 
 
 
