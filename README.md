@@ -27,13 +27,15 @@
 
 
 
-- ## 🚀 Languages and Tools:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,mongodb,github" />
-</p
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSisodiya&layout=compact&theme=tokyonight)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&theme=tokyonight)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AishwaryaSisodiya&theme=tokyonight)
-  | Most Used Languages | GitHub Stats |
+## 📊 Dashboard
+
+| Most Used Languages | GitHub Stats |
 |--------------------|-------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSisodiya&layout=compact&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya Sisodiya&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000) | ![](https://github-readme-stats.vercel.app/api?username=Aishwarya Sisodiya&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000) |
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Aishwarya Sisodiya&background=ffffff&ring=ff8c00&fire=ff8c00&currStreakLabel=000000&sideLabels=000000&dates=000000" />
+</p>
