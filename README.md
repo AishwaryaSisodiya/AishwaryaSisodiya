@@ -27,3 +27,10 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mongodb,mysql,git" />
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishwaryaSisodiya&show_icons=true&locale=en&layout=compact" alt="AishwaryaSisodiya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&locale=en" alt="AishwaryaSisodiya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSisodiya&" alt="AishwaryaSisodiya" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AishwaryaSisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="AishwaryaSisodiya" /> </p>
