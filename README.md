@@ -2,7 +2,7 @@
 <h3 align="center">A Mern Developer</h3>
 
 - 🎓  A Pre-final B.Tech Computer Science Student Gradulate in 2027
-- Reach out me mailto:aishwaryasisodiya20@gmail.com
+- Reach out me aishwaryasisodiya20@gmail.com
 - 💻 All my projects are available on [GitHub](https://github.com/AishwaryaSisodiya)
 
 <p align="center"></p>
