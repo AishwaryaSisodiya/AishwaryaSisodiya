@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Aishwarya Sisodiya</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Mern Developer</h3>
 
 - 🎓  A Pre-final B.Tech Computer Science Student Gradulate in 2027
 - 💻 All my projects are available on [GitHub](https://github.com/AishwaryaSisodiya)
