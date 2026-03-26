@@ -23,6 +23,55 @@
 </a>
 </p>
 
+<h2 align="center">Tools & Tech Stack 🚀</h2>
+
+<table>
+<tr>
+<td><b>Core Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,latex" />
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</td>
+</tr>
+
+
+<tr>
+<td><b>Database Technologies</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react" />
+</td>
+</tr>
+
+
+<tr>
+<td><b>Deployment Platforms</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=github,vercel" />
+</td>
+</tr>
+
+<tr>
+<td><b>Dev Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,postman" />
+</td>
+</tr>
+
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishwaryaSisodiya&show_icons=true&locale=en&layout=compact" alt="AishwaryaSisodiya" /></p>
 
