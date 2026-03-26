@@ -23,10 +23,7 @@
 </a>
 </p>
 
-## 🚀 Languages and Tools:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mongodb,mysql,xampp,git" />
-</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishwaryaSisodiya&show_icons=true&locale=en&layout=compact" alt="AishwaryaSisodiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&locale=en" alt="AishwaryaSisodiya" /></p>
