@@ -34,7 +34,7 @@
 <tr>
 <td><b>Frameworks</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,flask" />
 </td>
 </tr>
 
