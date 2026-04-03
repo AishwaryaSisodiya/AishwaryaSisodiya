@@ -58,6 +58,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishwaryaSisodiya&show_icons=true&locale=en" alt="AishwaryaSisodiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSisodiya&" alt="AishwaryaSisodiya" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaSisodiya&theme=radical" alt="AishwaryaSisodiya" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AishwaryaSisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="AishwaryaSisodiya" /> </p>
