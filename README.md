@@ -25,7 +25,6 @@
 <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 - ## 🌐 Connect with me:
 <p align="center">
